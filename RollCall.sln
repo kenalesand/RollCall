@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollCall", "RollCall\RollCall.csproj", "{F6479B38-6F44-45F7-A8DC-DA8554A321FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTRollCall", "UTRollCall\UTRollCall.csproj", "{955A570D-DF0C-4866-A78C-36933CA5C31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollCallCopy", "RollCallCopy\RollCallCopy.csproj", "{502B25DE-2A8F-48C4-BB3C-DD30D8BD8768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollCallReceiver", "RollCallReceiver\RollCallReceiver.csproj", "{D23BDB8E-20F6-43D2-95AA-601A759F7CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6479B38-6F44-45F7-A8DC-DA8554A321FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6479B38-6F44-45F7-A8DC-DA8554A321FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6479B38-6F44-45F7-A8DC-DA8554A321FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6479B38-6F44-45F7-A8DC-DA8554A321FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955A570D-DF0C-4866-A78C-36933CA5C31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955A570D-DF0C-4866-A78C-36933CA5C31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955A570D-DF0C-4866-A78C-36933CA5C31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955A570D-DF0C-4866-A78C-36933CA5C31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502B25DE-2A8F-48C4-BB3C-DD30D8BD8768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502B25DE-2A8F-48C4-BB3C-DD30D8BD8768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502B25DE-2A8F-48C4-BB3C-DD30D8BD8768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502B25DE-2A8F-48C4-BB3C-DD30D8BD8768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23BDB8E-20F6-43D2-95AA-601A759F7CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23BDB8E-20F6-43D2-95AA-601A759F7CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23BDB8E-20F6-43D2-95AA-601A759F7CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23BDB8E-20F6-43D2-95AA-601A759F7CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22653842-0637-4C0C-9A5D-09E1F1150139}
+	EndGlobalSection
+EndGlobal
